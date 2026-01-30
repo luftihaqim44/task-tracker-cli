@@ -1,4 +1,4 @@
-# Lufti's Task Manager CLI Project 📝
+# Lufti's Task Tracker CLI Project 📝
 
 ### 1. Project Overview
 This is a Command Line Interface (CLI) application built with **Node.js**. The app allows you to manage a to-do list directly from your terminal. It supports creating tasks with different priority levels and saves all data into a local `tasks.json` file so your information is never lost.
